@@ -1,0 +1,13 @@
+#python
+venv/
+__pycache__/
+*.pyc
+*.pyo
+
+#macOS
+.DS_Store
+
+#temp files
+~$*
+~WRL*.tmp
+*.tmp
