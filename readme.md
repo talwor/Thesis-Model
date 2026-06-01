@@ -1,6 +1,6 @@
 # Bourke HIV & Influenza Co-infection Simulation
 
-An agent-based, network-driven epidemiological model simulating the co-spread of HIV and influenza in a synthetic population based on Bourke, NSW (population ~2,340). Built as part of an INFO4001 Honours thesis.
+An agent-based, network-driven epidemiological model simulating the co-spread of HIV and influenza in a synthetic population based on Bourke, NSW (population ~2,340). Built as part of a final year thesis.
 
 ---
 
