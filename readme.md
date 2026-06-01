@@ -101,7 +101,7 @@ python control_tests.py --mode both --days 730 --batch --seeds 0-20
 
 Each run produces:
 - Console statistics (initialisation counts, final counts, relationships formed, breakups)
-- `.graphml` files: the full network graph importable into Gephi or NetworkX
+- `.graphml` files: the full network graph importable into NetworkX
 - Matplotlib plots: HIV prevalence, HIV cumulative incidence, flu prevalence, flu daily incidence, flu cumulative incidence
 
 Batch runs additionally export CSV files per metric (e.g. `batch_both_hiv_prevalence.csv`).
